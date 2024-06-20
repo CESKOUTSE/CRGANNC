@@ -16,7 +16,9 @@ The full model architecture of our approach, CRGANNC (Clustering Recommendation 
 
 First, clone this repository and move to the directory.
 
-git@github.com:CESKOUTSE/dataset_for_recommend.git
+
+git@git
+
 
 To run this code properly, you must update your Google Colab environment.
 
@@ -35,11 +37,19 @@ To run this code properly, you must update your Google Colab environment.
 ### RFT Ceskoutsé, AB Bomgni, DRG Zanfack, DDM Agany, TB Bouetou, EG Zohim Computers in Biology and Medicine, 2024•Elsevier
 
 @article{ceskoutse2024sub,
-  title={Sub-clustering based recommendation system for stroke patient: Identification of a specific drug class for a given patient},
-  author={Ceskouts{\'e}, Ribot Fleury T and Bomgni, Alain Bertrand and Zanfack, David R Gnimpieba and Agany, Diing DM and Bouetou, Thomas Bouetou and Zohim, Etienne Gnimpieba},
-  journal={Computers in Biology and Medicine},
-  volume={171},
-  pages={108117},
-  year={2024},
-  publisher={Elsevier}
+
+    title={Sub-clustering based recommendation system for stroke patient: Identification of a specific drug class for a given patient},
+  
+    author={Ceskouts{\'e}, Ribot Fleury T and Bomgni, Alain Bertrand and Zanfack, David R Gnimpieba and Agany, Diing DM and Bouetou, Thomas Bouetou and Zohim, Etienne Gnimpieba},
+  
+    journal={Computers in Biology and Medicine},
+  
+    volume={171},
+  
+    pages={108117},
+  
+    year={2024},
+  
+    publisher={Elsevier}
+    
 }
