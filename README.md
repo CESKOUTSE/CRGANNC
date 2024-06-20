@@ -11,3 +11,8 @@ The full model architecture of our approach, CRGANNC (Clustering Recommendation 
 #### Step 4. Calculate the representative rate for each drug among the k
 
 ![model_architecture](https://github.com/CESKOUTSE/dataset_for_recommend/assets/100790163/74f1e0ed-904d-44f0-9187-bd8659f5824a)
+
+# Setup
+
+First, clone this repository and move to the directory.
+
