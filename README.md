@@ -23,3 +23,23 @@ To run this code properly, you must update your Google Colab environment.
 #### CRGANNC-model.ipynb: main code
 #### data-engineering.ipynb: Data Engineering
 #### GANs-augmentation.ipynb: TGAN data generation
+
+# Dataset
+
+#### dataset-stroke-data.csv: initial dataset
+#### GAN_Stroke_Data.csv: dataset generated after TGAN
+#### GAN_RECOMEND__Dataupdate6.csv: final dataset
+
+# Citation
+
+### RFT Ceskoutsé, AB Bomgni, DRG Zanfack, DDM Agany, TB Bouetou, EG Zohim Computers in Biology and Medicine, 2024•Elsevier
+
+@article{ceskoutse2024sub,
+  title={Sub-clustering based recommendation system for stroke patient: Identification of a specific drug class for a given patient},
+  author={Ceskouts{\'e}, Ribot Fleury T and Bomgni, Alain Bertrand and Zanfack, David R Gnimpieba and Agany, Diing DM and Bouetou, Thomas Bouetou and Zohim, Etienne Gnimpieba},
+  journal={Computers in Biology and Medicine},
+  volume={171},
+  pages={108117},
+  year={2024},
+  publisher={Elsevier}
+}
