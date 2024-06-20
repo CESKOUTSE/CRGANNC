@@ -16,3 +16,10 @@ The full model architecture of our approach, CRGANNC (Clustering Recommendation 
 
 First, clone this repository and move to the directory.
 
+git@github.com:CESKOUTSE/dataset_for_recommend.git
+
+To run this code properly, you must update your Google Colab environment.
+
+#### CRGANNC-model.ipynb: main code
+#### data-engineering.ipynb: Data Engineering
+#### GANs-augmentation.ipynb: TGAN data generation
