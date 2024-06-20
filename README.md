@@ -16,7 +16,7 @@ The full model architecture of our approach, CRGANNC (Clustering Recommendation 
 
 First, clone this repository and move to the directory.
 
-https://github.com/CESKOUTSE/dataset_for_recommend.git
+https://github.com/CESKOUTSE/CRGANNC.git
 
 To run this code properly, you must update your Google Colab environment.
 
